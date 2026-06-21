@@ -13,4 +13,4 @@ Four Cards Section with partially responsible layout i've used
 - Fonts
   - Google Fonts --> [Poppins Font]((https://fonts.google.com/specimen/Poppins))
 
-[Live Preview]()
+[Live Preview](https://ahmedsorror2004.github.io/four-cards/)
